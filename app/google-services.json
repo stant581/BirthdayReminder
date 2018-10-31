@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2281234196",
+    "firebase_url": "https://buddayremindv2.firebaseio.com",
+    "project_id": "buddayremindv2",
+    "storage_bucket": "buddayremindv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2281234196:android:109f2b0d19341bf5",
+        "android_client_info": {
+          "package_name": "com.example.ani.buddayremind_v_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2281234196-2rvhoi5ldj4b58ec1bp67krd6a54pl9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ani.buddayremind_v_2",
+            "certificate_hash": "f59265e510005c265b177c61e0227a42782ce13d"
+          }
+        },
+        {
+          "client_id": "2281234196-9mo94dl8gnq8nl2t547tlbbu47o275fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFShA5knFtCTiss40is2gUFIS84iAoMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2281234196-9mo94dl8gnq8nl2t547tlbbu47o275fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
